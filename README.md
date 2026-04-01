@@ -8,11 +8,18 @@ DevOps Engineer Intern and Computer Science undergraduate (B.Tech, 2026) with ha
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManjotSingh531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ManjotSingh531&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjotSingh531&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ManjotSingh531&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+```
+
+**2. The profile README repo might be missing**
+Make sure you have a repo named exactly `ManjotSingh531` (same as your username) with a `README.md` inside it. That's the special repo GitHub uses to display your profile.
+
+**3. Vercel API rate limit**
+`github-readme-stats` is a community-hosted service that sometimes hits GitHub API rate limits. You can self-deploy it or just wait and refresh.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ManjotSingh531&icon=0&color=0)](https://visitcount.itsvg.in)
 
+**To quickly test** — paste this directly in your browser:
+```
+https://github-readme-stats.vercel.app/api?username=ManjotSingh531&theme=dark
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
